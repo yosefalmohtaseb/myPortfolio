@@ -4,20 +4,20 @@ export default function Testimonials() {
   const data = [
     {
       id: 1,
-      name: "Tom Durden",
-      title: "Senior Developer",
+      name: "Hamdi Hijazi",
+      title: "ReactJs Developer",
       img:
-        "https://images.pexels.com/photos/1680172/pexels-photo-1680172.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "https://media-exp1.licdn.com/dms/image/C5603AQGGEY4LVpKTiw/profile-displayphoto-shrink_200_200/0/1626354735373?e=1635379200&v=beta&t=jhAMtDm9Gm-TjmhXMp8LZMZjMFXRleUz-K1jUeQCh5k",
       icon: "assets/twitter.png",
       desc:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam dolorem.",
     },
     {
       id: 2,
-      name: "Alex Kalinski",
-      title: "Co-Founder of DELKA",
+      name: "Mohammed AL-Reai",
+      title: "Full stack Developer",
       img:
-        "https://images.pexels.com/photos/428321/pexels-photo-428321.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "https://media-exp1.licdn.com/dms/image/D5635AQGKeASi-iBj1w/profile-framedphoto-shrink_200_200/0/1628016254894?e=1629810000&v=beta&t=t8t0JqHiGUqEevDxiMBG1sBG1GSyfdfolC4WixQ-TdA",
       icon: "assets/youtube.png",
       desc:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam dolorem recusandae perspiciatis ducimus vel hic temporibus. ",
@@ -25,10 +25,10 @@ export default function Testimonials() {
     },
     {
       id: 3,
-      name: "Martin Harold",
-      title: "CEO of ALBI",
+      name: "Omar Imad",
+      title: "Front-end Developer",
       img:
-        "https://images.pexels.com/photos/3863793/pexels-photo-3863793.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "https://media-exp1.licdn.com/dms/image/C4E03AQHA-r8CqXLbZw/profile-displayphoto-shrink_200_200/0/1627816741695?e=1635379200&v=beta&t=aFZEnMQSAtwiaZUTFgaXejOZzow8sKpvk_33R8PM260",
       icon: "assets/linkedin.png",
       desc:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam dolorem",
