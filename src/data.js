@@ -31,9 +31,10 @@ export const featuredPortfolio = [
     },
     {
       id: 5,
-      title: "Hero Web Design",
-      img:
-        "https://cdn.dribbble.com/users/5031392/screenshots/15467520/media/c36b3b15b25b1e190d081abdbbf947cf.png?compress=1&resize=1200x900",
+      title: "Netflix",
+      img:"assets/netflix.jpg",
+      link:
+        "https://mynetflix-yosefalmohtasib.vercel.app",
     },
     {
       id: 6,
