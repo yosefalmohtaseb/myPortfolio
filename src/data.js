@@ -38,9 +38,11 @@ export const featuredPortfolio = [
     },
     {
       id: 6,
-      title: "Banking App",
+      title: "Landing page design",
       img:
-        "https://cdn.dribbble.com/users/3307260/screenshots/15468444/media/447b4501f7a145b05e11c70199a9c417.jpg?compress=1&resize=1200x900",
+        "assets/piza.png",
+        link:
+        "https://landingpage-yosefalmohtasib.vercel.app",
     },
   ];
   

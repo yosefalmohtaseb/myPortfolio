@@ -9,13 +9,13 @@ export default function Topbar({ menuOpen, setMenuOpen }) {
           <a href="#intro" className="logo">
             Yousef 
           </a>
-            <a className="link" href="https://wa.me/+970592255310">
+            <a className="link" href="https://wa.me/+970592255310" rel="noopener noreferrer"  target="_blanck">
           <div className="itemContainer">
             <Person className="icon" />
             +970592255310
           </div>
             </a>
-            <a className="link" href="mailto:yosefalmohtasib@gmail.com?subject=Mail from my portfolio">
+            <a className="link" href="mailto:yosefalmohtasib@gmail.com?subject=Mail from my portfolio" rel="noopener noreferrer"  target="_blanck">
           <div className="itemContainer">
             <Mail className="icon" />
             yosefalmohtasib@gmail.com
