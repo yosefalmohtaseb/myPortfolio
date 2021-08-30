@@ -32,9 +32,10 @@
     position: absolute;
     left: 0;
     transition: all 1s ease-out;
+    
 
     @include mobile {
-      height: 100vh;
+      height: auto;
       flex-direction: column;
       justify-content: center;
     }
@@ -44,6 +45,8 @@
       display: flex;
       align-items: center;
       justify-content: center;
+      @include mobile{
+      }
 
       .item {
         width: 700px;

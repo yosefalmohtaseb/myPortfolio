@@ -18,7 +18,7 @@ export default function Testimonials() {
       name: "Mohammed AL-Reai",
       title: "Full stack Developer",
       img:
-        "https://media-exp1.licdn.com/dms/image/D5635AQGKeASi-iBj1w/profile-framedphoto-shrink_200_200/0/1628016254894?e=1630004400&v=beta&t=JKH39GokfRdm7Zh4WXQ2iqd74q0GgDzN1e241lHBl4A",
+        "https://media-exp1.licdn.com/dms/image/D5635AQGKeASi-iBj1w/profile-framedphoto-shrink_200_200/0/1628016254894?e=1630328400&v=beta&t=yugTN3MKE8ZbvXNzwsrqu8R4IKsfVZCrhtxHj_B8Ejw",
       icon: "assets/linkedin.png",
       desc:
         "Yousef is a cool developer who thinks outside the box and in general made decision to build a creative solutions with the best performance.",
