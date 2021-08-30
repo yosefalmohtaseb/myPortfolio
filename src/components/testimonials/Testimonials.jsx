@@ -7,7 +7,7 @@ export default function Testimonials() {
       name: "Hamdi Hijazi",
       title: "ReactJs Developer",
       img:
-        "https://media-exp1.licdn.com/dms/image/C5603AQGGEY4LVpKTiw/profile-displayphoto-shrink_200_200/0/1626354735373?e=1635379200&v=beta&t=jhAMtDm9Gm-TjmhXMp8LZMZjMFXRleUz-K1jUeQCh5k",
+        "./assets/hamdi.jpg",
       icon: "assets/linkedin.png",
       desc:
         "Yousef is an expert in web design and ICT facilitator, I have worked with him more than once, who ready to do the best to reach the best results, Yousef is hardworking and I highly recommend him.",
@@ -18,7 +18,7 @@ export default function Testimonials() {
       name: "Mohammed AL-Reai",
       title: "Full stack Developer",
       img:
-        "https://media-exp1.licdn.com/dms/image/D5635AQGKeASi-iBj1w/profile-framedphoto-shrink_200_200/0/1628016254894?e=1630328400&v=beta&t=yugTN3MKE8ZbvXNzwsrqu8R4IKsfVZCrhtxHj_B8Ejw",
+        "./assets/mohamed.jpg",
       icon: "assets/linkedin.png",
       desc:
         "Yousef is a cool developer who thinks outside the box and in general made decision to build a creative solutions with the best performance.",
@@ -30,7 +30,7 @@ export default function Testimonials() {
       name: "Omar Imad",
       title: "Front-end Developer",
       img:
-        "https://media-exp1.licdn.com/dms/image/C4E03AQHA-r8CqXLbZw/profile-displayphoto-shrink_200_200/0/1627816741695?e=1635379200&v=beta&t=aFZEnMQSAtwiaZUTFgaXejOZzow8sKpvk_33R8PM260",
+        "./assets/omer.jpg",
       icon: "assets/linkedin.png",
       desc:
         "Yousef is a great team leader, he is helpful, organised, hardworking and meticulous.",
